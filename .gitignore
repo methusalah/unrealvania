@@ -60,3 +60,4 @@ DerivedDataCache/*
 
 # Build data are not saved because its too much heavy
 *_BuiltData.uasset
+Content/Cosmovania/maps/lvl1/level1_BuiltData.uasset
